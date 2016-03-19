@@ -8,9 +8,9 @@
 
       $roscore
       $rosbad play --clock [bagname.bag]
-      go to you catkin workspace 
+      ##go to you catkin workspace 
       $catkin_make
-      built the ros2opencv target
+      ##built the ros2opencv target
       $rosrun ros2opencv ros2opencv_node
     
 ##Q&A
